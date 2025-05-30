@@ -8,5 +8,5 @@
 
 해당 레포지토리의 업로드는 MAC OS에서 진행됩니다.
 
-노션 정리링크 : (노션)[https://band-chive-aa5.notion.site/C-For-Beginner-1ff700824ca08048a262f2da7efd77e4?pvs=74]
+노션 정리링크 : [노션](https://band-chive-aa5.notion.site/C-For-Beginner-1ff700824ca08048a262f2da7efd77e4?pvs=74)
 
