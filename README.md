@@ -10,3 +10,6 @@
 
 노션 정리링크 : [노션](https://band-chive-aa5.notion.site/C-For-Beginner-1ff700824ca08048a262f2da7efd77e4?pvs=74)
 
+---
+
+# 정보처리기사 실기 준비로 인해 1달간 레포지토리 업로드를 중단합니다.
